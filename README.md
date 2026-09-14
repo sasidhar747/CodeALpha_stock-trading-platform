@@ -276,6 +276,3 @@ StockTradingPlatform/
 
 This project is for educational purposes as part of the CodeAlpha Java Programming Internship.
 
----
-
-**Recommended GitHub Repository Name:** `CodeALpha_stock-trading-platform`
