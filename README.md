@@ -96,8 +96,8 @@ StockTradingPlatform/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CodeAlpha_StockTradingPlatform.git
-   cd CodeAlpha_StockTradingPlatform
+   git clone https://github.com/sasidhar747/CodeALpha_stock-trading-platform.git
+   cd CodeALpha_stock-trading-platform
    ```
 
 2. **Compile all Java files:**
@@ -241,6 +241,14 @@ StockTradingPlatform/
 
 ---
 
+## 👥 Contributors
+
+| Name | Role |
+|------|------|
+| **Gamini Sasidhar Sai Varma** | Developer — CodeAlpha Java Internship |
+
+---
+
 ## 📝 LinkedIn Post
 
 > 🚀 Excited to share my latest project from the **CodeAlpha Java Programming Internship**!
@@ -258,7 +266,7 @@ StockTradingPlatform/
 >
 > This project strengthened my understanding of Java fundamentals and object-oriented design patterns.
 >
-> 🔗 GitHub: github.com/YOUR_USERNAME/CodeAlpha_StockTradingPlatform
+> 🔗 GitHub: github.com/sasidhar747/CodeALpha_stock-trading-platform
 >
 > #Java #OOP #CodeAlpha #Internship #StockTrading #Programming #SoftwareDevelopment
 
@@ -270,4 +278,4 @@ This project is for educational purposes as part of the CodeAlpha Java Programmi
 
 ---
 
-**Recommended GitHub Repository Name:** `CodeAlpha_StockTradingPlatform`
+**Recommended GitHub Repository Name:** `CodeALpha_stock-trading-platform`
